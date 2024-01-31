@@ -10,11 +10,11 @@
 
 
 ## В проекте принимают участие:
-
 - [Владимир Сорокин](https://t.me/customidze) - **_Frontend & Backend_**
+
 - [Семенов Филипп](https://t.me/semenovfilipp) - **_Backend & Project Manager_**
 - [Айчурок Ибраимова](https://t.me/aichurok_i) - **_Frontend_**
-- [Юрий](https://t.me/yury_moscow) - **_Web Design_**
+
 
 
 
